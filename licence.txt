@@ -1,0 +1,8 @@
+The Android-Data-Scrapppe License
+
+Copyright (c) 2016 Perfios
+
+Permission is only for pefios employees.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
